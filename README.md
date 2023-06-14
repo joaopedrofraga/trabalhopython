@@ -4,7 +4,7 @@ Professor: Felipe Viel<br>
 Disciplina: Introdução à Ciência da Computação
 
 ## Sobre o projeto 👇🏻
-O trabalho foi realizado pelos estudantes João Pedro e Vinicius da Universidade do vale do Itajaí para a disciplina de primeiro período "Introdução à Ciência da Computação" proposto pelo professor [Felipe Viel](github.com/VielF).
+O trabalho foi realizado pelos estudantes João Pedro e Vinicius da Universidade do vale do Itajaí para a disciplina de primeiro período "Introdução à Ciência da Computação" proposto pelo professor [Felipe Viel](https://www.github.com/VielF).
 
 # Como executar o projeto 🔗
 
