@@ -10,7 +10,7 @@ De maneira simplificada e teórica, o código tem como linha inicial a criação
 
 ## Como executar o projeto 🔗
 
-Basta chamar chamar o método toString();
+Basta rodar o código em Python.
 
 ## Alunos
 
