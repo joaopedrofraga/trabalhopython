@@ -25,4 +25,4 @@
 ## Alunos
 
   João Pedro Tonatto Fraga // [ LinkedIn](https://www.linkedin.com/in/joão-fraga-9b2bb9278/) / [ GitHub](https://github.com/joaopedrofraga)<br>
-  Vinícius Henrique Budag Coelho // [ LinkedIn ](https://https://www.linkedin.com/in/vin%C3%ADciushbcoelho/) / [ GitHub ](https://github.com/viniciushbc)
+  Vinícius Henrique Budag Coelho // [ LinkedIn ](https://www.linkedin.com/in/viníciushbcoelho/) / [ GitHub ](https://github.com/viniciushbc)
